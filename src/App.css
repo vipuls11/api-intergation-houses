@@ -1,0 +1,16 @@
+
+.table{
+  width: 100%;
+  text-align: center;
+}
+
+
+.table_head th{
+  border: 1px solid black;
+  margin: 0;
+  padding: 10px 0px;
+}
+
+.table_content td{
+  border: 1px solid black;
+}
